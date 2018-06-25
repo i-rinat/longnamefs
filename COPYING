@@ -1,0 +1,7 @@
+Files: *
+Copyright: 2018 Rinat Ibragimov
+License: Expat
+
+Files: src/sha256.*
+Copyright: 2000-2001 Aaron D. Gifford
+License: BSD-3-clause
